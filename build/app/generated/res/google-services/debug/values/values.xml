@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">509575966389-2co68ndjmuilp8frc1h29dc7m31l76r6.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://doctorfinder-book-appointment-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">509575966389</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhIX00ANu8t_0MA0FHVnxfxApgw8n4Nz4</string>
+    <string name="google_app_id" translatable="false">1:509575966389:android:c433648edbb93ebdb458fc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhIX00ANu8t_0MA0FHVnxfxApgw8n4Nz4</string>
+    <string name="google_storage_bucket" translatable="false">doctorfinder-book-appointment.appspot.com</string>
+    <string name="project_id" translatable="false">doctorfinder-book-appointment</string>
+</resources>
