@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cc34bba1b2e277f0a7f14f34f1c0b2bf\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cc34bba1b2e277f0a7f14f34f1c0b2bf\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_maps_flutter\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\cc34bba1b2e277f0a7f14f34f1c0b2bf\\transformed\\jetified-play-services-base-18.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\a3a51472289f903d68242f6c35642ec9\\transformed\\jetified-play-services-auth-16.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\a3a51472289f903d68242f6c35642ec9\\transformed\\jetified-play-services-auth-16.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\a3a51472289f903d68242f6c35642ec9\\transformed\\jetified-play-services-auth-16.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    }
+]

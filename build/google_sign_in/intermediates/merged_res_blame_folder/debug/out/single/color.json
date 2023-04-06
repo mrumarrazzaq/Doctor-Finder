@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\a9ad2528bf7479200b4fe017dee5af83\\transformed\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\a9ad2528bf7479200b4fe017dee5af83\\transformed\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\google_sign_in\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\a9ad2528bf7479200b4fe017dee5af83\\transformed\\jetified-play-services-base-16.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]

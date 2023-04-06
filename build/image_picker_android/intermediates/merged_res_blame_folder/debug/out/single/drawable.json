@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\d04c7baa3b87ade7837f5e14a8e4dabf\\transformed\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\d04c7baa3b87ade7837f5e14a8e4dabf\\transformed\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\d04c7baa3b87ade7837f5e14a8e4dabf\\transformed\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Flutter Projects\\UploadingContentV5\\doctorfinder_timeslot\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Hp\\.gradle\\caches\\transforms-3\\d04c7baa3b87ade7837f5e14a8e4dabf\\transformed\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
